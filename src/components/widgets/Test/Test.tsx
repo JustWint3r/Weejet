@@ -1,3 +1,5 @@
+"add client";
+
 import React, { useEffect, useState } from 'react';
 
 const RealTimeClock: React.FC = () => {
